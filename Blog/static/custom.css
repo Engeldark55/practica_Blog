@@ -1,0 +1,26 @@
+@import url('http://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.imagen{
+    background: url(img/pexels-pixabay-257897.jpg);
+    background-size: cover;
+    min-height: 600px; 
+
+}
+.overlay{
+    background:rgb(9 37 56 / 70%);
+    min-height: 600px;
+}
+.nav-item:hover{
+    background-color: blue;
+}
+#facebook{
+    color: rgb(104 165 255);
+}
+#facebook:hover{
+    color: white;
+}
+#whatsaap{
+    color: #66ff66;;
+}
+#whatsaap:hover{
+    color: white;
+}
